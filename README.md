@@ -20,6 +20,8 @@ Protótipo montado a partir do template genérico, usando as informações **rea
 - **Sábado: 9h ao meio-dia, mas ela NÃO abre todo sábado** — o site não afirma "aberto" automaticamente nesse dia, só orienta a confirmar disponibilidade e agendar pelo WhatsApp.
 - **CEP atualizado:** 96785-212 (endereço continua o mesmo, Rua 3 de Outubro, 705 - Olaria - Camaquã/RS).
 - **Preço do Banho: a partir de R$ 40,00, varia conforme o porte do cão.**
+- **Preço do combo Banho + Tosa: de R$ 75,00 a R$ 130,00, conforme o porte do cão** (confirmado com a Priscila em 18/09/2026).
+- **Vacina sem preço fixo no site:** a Priscila prefere combinar o valor direto com o cliente, porque às vezes ela faz um combo com o banho.
 - **Pet da Pri existe desde 2018.**
 - **Priscila é médica-veterinária, formada pela UniRitter em 2025.** Isso foi incluído nos diferenciais da home — é um baita diferencial de confiança, especialmente pra quem for agendar a vacina.
 - Adicionado aviso pra agendar com antecedência (ela tem bastante clientes fixos durante a semana, os horários lotam rápido) — aparece no topo do formulário de Agendamento.
@@ -28,9 +30,8 @@ Protótipo montado a partir do template genérico, usando as informações **rea
 - **Foto real do carro da Pet da Pri** (usado na tele-busca) no 2º slide do carrossel da home (`images/carro-tele-busca.jpg`).
 - **Foto real de dois cães clientes** no 3º slide do carrossel da home (`images/slide3-cachorros.jpg`) — o carrossel da home agora está 100% com fotos reais, sem nenhum banner de exemplo.
 
-## O que é EXEMPLO/placeholder (confirme com ela antes de publicar de verdade)
+## O que ainda é EXEMPLO/placeholder (confirme com ela antes de publicar de verdade)
 
-- **Preço da Tosa e da Vacina** (`js/data.js`) - ainda não confirmados.
 - Nao incluí página de "Produtos" porque, pelo que entendi, ela trabalha só com banho, tosa e vacina - se ela também vender produtos, é só reativar essa parte do template original.
 
 ## Importante sobre a tele-busca
