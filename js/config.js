@@ -72,7 +72,7 @@ window.SITE_CONFIG = {
     // foto real de dois cães clientes (images/slide3-cachorros.jpg).
     carrossel: [
         { imagem: "images/dois-pugs-loja.jpg", alt: "Dois pugs clientes da Pet da Pri no espaço de atendimento", titulo: "Banho, Tosa e Vacina", subtitulo: "Com todo o carinho que o seu cão merece.", posicao: "center top" },
-        { imagem: "images/carro-tele-busca.jpg", alt: "Carro da Pet da Pri usado na tele-busca", titulo: "Tele-busca disponível", subtitulo: "A gente busca e entrega o seu pet, sem você sair de casa.", posicao: "center 35%" },
+                        { imagem: "images/carro-tele-busca.jpg", alt: "Carro da Pet da Pri usado na tele-busca", titulo: "Tele-busca disponível", subtitulo: "A gente busca e entrega o seu pet, sem você sair de casa.", posicao: "center 35%" },
         { imagem: "images/slide3-cachorros.jpg", alt: "Dois cães clientes da Pet da Pri, sorridentes após o atendimento", titulo: "Cada cão, um cuidado especial", subtitulo: "Clientes que já confiam na Pet da Pri.", posicao: "center 10%" },
     ],
 };
